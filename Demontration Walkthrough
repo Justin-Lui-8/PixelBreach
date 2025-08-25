@@ -1,0 +1,6 @@
+1 - Red Team runs the ssh_script.py to attempt a brute force attack on the Blue Team VM
+2 - Blue Team utilizes Event Viewer & Splunk to analyze the attack
+3 - Upon successful credential grab, Blue Team activates its firewall
+4 - Red Team attempts to drop an image onto the Blue Team VM but is thwarted by the firewall
+5 - The firewall is purposely deactivated for demonstration purposes 
+6 - Red Team runs download_image.py through the PowerShell of Blue Team's VM and an image is dropped onto their desktop
