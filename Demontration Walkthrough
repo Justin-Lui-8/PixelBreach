@@ -4,3 +4,4 @@
 4 - Red Team attempts to drop an image onto the Blue Team VM but is thwarted by the firewall
 5 - The firewall is purposely deactivated for demonstration purposes 
 6 - Red Team runs download_image.py through the PowerShell of Blue Team's VM and an image is dropped onto their desktop
+(Live Video walkthrough coming)
