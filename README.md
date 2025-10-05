@@ -1,5 +1,8 @@
 **This project demonstrates a brute force attack simulation using Python on Azure virtual machines to highlight the importance of cybersecurity principles such as password policies, firewall management, and access control. Once the attacker infiltrates the vulnerable system, an image is dropped onto the desktop to demonstrate the capabilities of malicious actors.**
 
+**Live Demonstration Video**<br>
+https://drive.google.com/file/d/1Jcd2oYKOR7OhQrtTkvd4-RU6SKcHGREa/view?usp=drive_link
+
 **Team** <br>
 Michael Schlichting Barbey - Offensive Security Engineer - https://www.linkedin.com/in/michaelbarbey/ <br>
 Rabten Jangchup - Security Analyst - https://www.linkedin.com/in/rabten-jangchup/<br>
